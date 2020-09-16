@@ -1,2 +1,2 @@
 # hello-world
-just another repository jskfn
+just another repository
